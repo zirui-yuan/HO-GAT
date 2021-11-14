@@ -6,7 +6,11 @@ dgl==0.6.1
 
 numpy==1.19.4
 
+scipy==1.5.4
+
 torch==1.9.1
+
+
 
 # Dataset
 cora
